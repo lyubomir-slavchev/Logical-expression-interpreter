@@ -1,0 +1,15 @@
+C:\Users\Lyob\source\repos\KursovaRabotaV2\KursovaRabotaV2\bin\Debug\net6.0\KursovaRabotaV2.exe
+C:\Users\Lyob\source\repos\KursovaRabotaV2\KursovaRabotaV2\bin\Debug\net6.0\KursovaRabotaV2.deps.json
+C:\Users\Lyob\source\repos\KursovaRabotaV2\KursovaRabotaV2\bin\Debug\net6.0\KursovaRabotaV2.runtimeconfig.json
+C:\Users\Lyob\source\repos\KursovaRabotaV2\KursovaRabotaV2\bin\Debug\net6.0\KursovaRabotaV2.dll
+C:\Users\Lyob\source\repos\KursovaRabotaV2\KursovaRabotaV2\bin\Debug\net6.0\KursovaRabotaV2.pdb
+C:\Users\Lyob\source\repos\KursovaRabotaV2\KursovaRabotaV2\obj\Debug\net6.0\KursovaRabotaV2.csproj.AssemblyReference.cache
+C:\Users\Lyob\source\repos\KursovaRabotaV2\KursovaRabotaV2\obj\Debug\net6.0\KursovaRabotaV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyob\source\repos\KursovaRabotaV2\KursovaRabotaV2\obj\Debug\net6.0\KursovaRabotaV2.AssemblyInfoInputs.cache
+C:\Users\Lyob\source\repos\KursovaRabotaV2\KursovaRabotaV2\obj\Debug\net6.0\KursovaRabotaV2.AssemblyInfo.cs
+C:\Users\Lyob\source\repos\KursovaRabotaV2\KursovaRabotaV2\obj\Debug\net6.0\KursovaRabotaV2.csproj.CoreCompileInputs.cache
+C:\Users\Lyob\source\repos\KursovaRabotaV2\KursovaRabotaV2\obj\Debug\net6.0\KursovaRabotaV2.dll
+C:\Users\Lyob\source\repos\KursovaRabotaV2\KursovaRabotaV2\obj\Debug\net6.0\refint\KursovaRabotaV2.dll
+C:\Users\Lyob\source\repos\KursovaRabotaV2\KursovaRabotaV2\obj\Debug\net6.0\KursovaRabotaV2.pdb
+C:\Users\Lyob\source\repos\KursovaRabotaV2\KursovaRabotaV2\obj\Debug\net6.0\KursovaRabotaV2.genruntimeconfig.cache
+C:\Users\Lyob\source\repos\KursovaRabotaV2\KursovaRabotaV2\obj\Debug\net6.0\ref\KursovaRabotaV2.dll
